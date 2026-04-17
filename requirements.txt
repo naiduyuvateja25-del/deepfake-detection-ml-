@@ -1,0 +1,10 @@
+torch
+torchvision
+opencv-python
+timm
+insightface
+faiss-cpu
+albumentations
+numpy
+matplotlib
+onnx
